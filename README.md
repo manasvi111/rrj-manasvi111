@@ -5,3 +5,21 @@ Here, in this journal I am including my work on weekly basis and the content reg
 ## Activity 1: Research a new language
 ### Processing Programming language
 Processing is an open-source programming language and environment designed for artists, designers, educators, and beginners to create visual arts, interactive installations, and multimedia projects. Developed by Ben Fry and Casey Reas at the MIT Media Lab in 2001, Processing is built on top of Java and extends its syntax to make it more accessible for creative coding purposes.
+
+### Key features and aspects of Processing:
+- Simplicity
+- Graphics and multimedia
+- Interactivity
+- Community
+- Cross-platform
+- Integration
+- Education
+
+Its simplicity, flexibility, and vibrant community make it an ideal choice for exploring the intersection of art and technology.
+
+
+
+
+
+
+
