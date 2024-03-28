@@ -49,32 +49,32 @@ By exploring these resources, individuals can gain a solid understanding of Proc
 
 ## Activity 2: User stories:
 
-## Feature: Food Delivery Service
+### Feature: Food Delivery Service
 
-## User Story 1: Browse Restaurants
+### User Story 1: Browse Restaurants
 "As a food-holic user, I want to browse available restaurants so that I can choose where to order food from."
 
-## Acceptance Criteria:
+### Acceptance Criteria:
 
 - Display a list of nearby restaurants with their names and cuisines.
 - Allow the user to filter restaurants by cuisine type.
 - Provide information about the restaurant's opening hours and delivery times.
 - Enable sorting options such as distance or ratings.
 
-## User Story 2: Menu Exploration
+### User Story 2: Menu Exploration
 "As a user, I want to explore the menu of a selected restaurant so that I can decide what to order."
 
-## Acceptance Criteria:
+### Acceptance Criteria:
 
 - Present the menu categories (e.g., appetizers, main courses, desserts) clearly.
 - Display images and descriptions for each menu item.
 - Include pricing information for each menu item.
 - Allow users to add items to their cart directly from the menu.
   
-## User Story 3: Customization Options
+### User Story 3: Customization Options
 "As a user, I want to customize my food order (e.g., toppings, sauce choices) so that I can tailor it to my preferences."
 
-## Acceptance Criteria:
+### Acceptance Criteria:
 
 - Provide customization options for applicable menu items (e.g., pizza toppings, burger add-ons).
 - Allow users to specify quantity and preferences for each customization option.
