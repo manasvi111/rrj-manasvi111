@@ -81,7 +81,11 @@ By exploring these resources, individuals can gain a solid understanding of Proc
 - Display any additional costs associated with selected customizations.
 - Ensure that customized orders are accurately reflected in the final order summary.
 
+## Activity 3: Choose a language for community code
 
+For the selection of the language for community code I would like to choose Javascript because this is the wordwide language which is widely accepted by many of us.
+
+Moreover, JavaScript is a popular programming language for web and mobile development. It has a large, active community with abundant resources and tools available. The language's versatility allows for a wide range of potential projects within the Community Code scope.
 
 
 
