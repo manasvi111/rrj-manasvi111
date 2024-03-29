@@ -151,7 +151,7 @@ Overall, this guide has given me a much clearer picture of what effective open s
 
 ## Find potential projects to contribute to:
 
-Here is a summary of the Workbox project based on the provided search results:
+1. Here is a summary of the Workbox project based on the provided search results:
 
 ## Workbox Project Overview
 ![image](https://github.com/manasvi111/rrj-manasvi111/assets/122574665/7db55aca-8ad8-46c5-a6a0-39df7a26c331)
@@ -173,6 +173,38 @@ Workbox helps ensure your PWA works reliably even when the user is offline or ha
 Workbox is designed to be modular, allowing developers to pick and choose the specific features they need.
 ![image](https://github.com/manasvi111/rrj-manasvi111/assets/122574665/17b23f32-0e49-40f5-ad4f-46c35a86aaad)
 
+2. Before I die Achievements
+
+BeforeIDieAchievements is a platform to assist developers in getting involved in an open-source project and documenting their life goals. Developers can share their aspirations with an image and text describing what they want to accomplish before they die. Share your life goals and aspirations with others, reflect on what truly matters to you in life, and connect with like-minded individuals. Leverage the power of community to achieve your dreams. Before I Die Code is a platform for documenting your life goals, learning how to contribute to an open source project and is A GREAT BEGINNER FRIENDLY PROJECT. 
+
+![image](https://github.com/manasvi111/rrj-manasvi111/assets/122574665/fa650ee3-baa9-479c-98fd-82dcbcf2bb7a)
+
+3. Swagger UI
+![image](https://github.com/manasvi111/rrj-manasvi111/assets/122574665/f7f6f5df-609e-4c81-9c61-96205350d2cc)
+
+Swagger UI allows anyone — be it your development team or your end consumers — to visualize and interact with the API’s resources without having any of the implementation logic in place. It’s automatically generated from your OpenAPI (formerly known as Swagger) Specification, with the visual documentation making it easy for back end implementation and client side consumption.
+
+![image](https://github.com/manasvi111/rrj-manasvi111/assets/122574665/8ededcdd-df54-4800-b0ed-080ffc84698d)
+
+## Identify issues to support
+
+## Workbox Project Issues
+
+### 1. Missing Proper 'Get Started' Docs
+**URL:** https://github.com/GoogleChrome/workbox/issues/3283
+
+**Description:** The community has expressed concerns about the lack of clear and comprehensive "Get Started" documentation for the Workbox project. The current documentation is perceived as lacking, making it difficult for new users to quickly understand how to set up and use Workbox.
+
+**Potential Contribution:** I could review the existing Workbox documentation, identify areas that need more clarity and detail, and submit pull requests to enhance the "Get Started" guides. This would involve creating new sections, improving explanations, and adding more examples to help onboard new users more effectively.
+
+### 2. Request to Clarify Documentation on Stale-While-Revalidate
+**URL:** https://github.com/GoogleChrome/workbox/issues/3282
+
+**Description:** The community has raised concerns about the documentation around the Stale-While-Revalidate caching strategy in Workbox. There is a request to clarify and improve the explanations, as the current documentation is perceived as unclear.
+
+**Potential Contribution:** I could dive into the Workbox documentation, specifically the section on Stale-While-Revalidate, and work on enhancing the explanations. This could involve adding more examples, clarifying the use cases, and ensuring the documentation is easy to understand for both new and experienced developers.
+
+By addressing these two major issues - improving the "Get Started" docs and clarifying the Stale-While-Revalidate documentation - I believe I can make valuable contributions to the Workbox project and help improve the overall user experience for the community.
 
 
 
