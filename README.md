@@ -123,7 +123,7 @@ This is a really cool assignment I've got here. For my open-source project, I th
 
 I could write some code to help fix bugs or add new features. That's always super valuable for open-source projects. Or, if coding isn't my strong suit, I could always lend a hand with creating tutorials or improving the documentation. That kind of stuff is just as important, because it helps make the project more accessible and user-friendly for everyone.
 
-### Activity 2: Read the community code assignment
+### Activity 2: Read "How to contribute to open source".
 
 Here is a summary and reflection on what I've learned about contributing to open source projects from the "How to Contribute to Open Source" guide:
 
