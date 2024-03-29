@@ -206,6 +206,39 @@ Swagger UI allows anyone â€” be it your development team or your end consumers â
 
 By addressing these two major issues - improving the "Get Started" docs and clarifying the Stale-While-Revalidate documentation - I believe I can make valuable contributions to the Workbox project and help improve the overall user experience for the community.
 
+# Week 10
+## Assess External Communitie Contribution Guidelines
+
+Based on the research results, here is a summary of the key points regarding the external community contribution guidelines for the Workbox project:
+
+## Workbox Contribution Guidelines
+
+### Communication Channels
+- The Workbox project uses GitHub issues and pull requests as the primary communication channels for contributions.
+- There is no mention of any other community platforms like Discord, Slack, or Zulip.
+
+### Contribution Process
+1. **Discuss Contributions First**: The guidelines recommend discussing your contribution idea with the Workbox team before starting any work. This helps ensure the contribution aligns with the project's goals and direction.
+2. **Follow Contribution Guidelines**: The project has a detailed CONTRIBUTING.md file that outlines the steps for submitting issues, pull requests, and other types of contributions.
+3. **Maintain Code Quality**: Contributions should adhere to the project's code style and quality standards to ensure maintainability.
+4. **Sign the CLA**: Contributors are required to sign a Contributor License Agreement (CLA) before their contributions can be accepted.
+
+### Contribution Types
+The Workbox project accepts various types of contributions, including:
+- Bug reports
+- Feature requests
+- Documentation improvements
+- Code contributions (bug fixes, new features, etc.)
+
+### Issue Labels
+The project uses labels like "good first issue" and "help wanted" to identify issues that are suitable for new contributors.
+
+### Contribution Review Process
+The Workbox team reviews all contributions and provides feedback. Accepted contributions will be merged into the project.
+
+Overall, the Workbox project has well-documented contribution guidelines that focus on clear communication, code quality, and the CLA process. The guidelines do not mention any external community platforms, so contributors should primarily use GitHub for their interactions.
+
+
 
 
 
