@@ -238,7 +238,12 @@ The Workbox team reviews all contributions and provides feedback. Accepted contr
 
 Overall, the Workbox project has well-documented contribution guidelines that focus on clear communication, code quality, and the CLA process. The guidelines do not mention any external community platforms, so contributors should primarily use GitHub for their interactions.
 
+# Week 10
+## Read through pattern library issues
 
+For this assignment, I already visited some issues and I reviwed their code and gave them suggestions accordingly. Till now, mainly I gave my contribution to 3 issues so far. The first one was PR #89, PR #87 and PR #88. I gave them my suggestions with the help of comment section and they have akready applied thatin their code after words.
+
+As a personal assignment, I have worked on the issue of PR #67.
 
 
 
