@@ -49,7 +49,7 @@ By exploring these resources, individuals can gain a solid understanding of Proc
 
 ## Activity 2: User stories:
 
-### Feature: Food Delivery Service
+Feature: Food Delivery Service
 
 ### User Story 1: Browse Restaurants
 "As a food-holic user, I want to browse available restaurants so that I can choose where to order food from."
@@ -87,7 +87,43 @@ For the selection of the language for community code I would like to choose Java
 
 Moreover, JavaScript is a popular programming language for web and mobile development. It has a large, active community with abundant resources and tools available. The language's versatility allows for a wide range of potential projects within the Community Code scope.
 
+## Activity 3: Star Github topics and repositories of interests 
 
+As part of preparing for the Community Code project, I spent time exploring the GitHub Explore tab and various sections to discover and star topics and repositories of interest. Through this process, I have now starred a total of 6 GitHub topics and repositories that I believe will be valuable for the project.
+
+The topics and repositories I have starred include:
+- Bootstrap
+- ASP.NET
+- Azure
+- Amazon web services
+- Code quality
+- Code review
+- Learning E-commerce (https://github.com/hinchley2018/learning-ecommerce)
+
+## Activity 4: Follow-up questions and reflections
+Interesting thing learned from researching programming languages:
+
+### Answer 1
+One of the really interesting things I've learned from researching programming languages is just how diverse and specialized they can be. It's not like there's one language that's the clear "best" - it really depends on the specific needs of the project and the developer's goals. I was reading through some of the other students' responses, and it was cool to see how they were gravitating towards languages like JavaScript, Python, and Kotlin. Those do seem to be gaining a lot of popularity these days, especially for web, mobile, and data-focused applications.
+
+### Answer 2
+As for what other languages I might consider for DGL 104, a couple that caught my eye were TypeScript and Kotlin. TypeScript is this really neat superset of JavaScript that adds static typing, which I think could be super helpful for writing more robust, maintainable code. And Kotlin, well, that just seems to be taking the Android development world by storm. I'm curious to learn more about how it compares to Java and whether it could be a good fit for some mobile app projects.
+
+### Answer 3
+when I was exploring GitHub, I was really blown away by just how much stuff is out there. I mean, I came across all these repositories that were jam-packed with all kinds of libraries, frameworks, and tools for different programming languages. It was like a treasure trove of resources!
+
+And then, on top of that, I found these other repositories that were all about getting involved in open-source projects and contributing back to the community. That really resonated with me, especially since that's such a big part of what we're trying to do with the Community Code project.
+
+# Week 9
+## Community code Project
+
+### Activity 1: Read the community code assignment
+
+This is a really cool assignment I've got here. For my open-source project, I think this is a great opportunity to get my hands dirty and really dive into the community. The way I see it, I've got all sorts of options in terms of how I can contribute.
+
+I could write some code to help fix bugs or add new features. That's always super valuable for open-source projects. Or, if coding isn't my strong suit, I could always lend a hand with creating tutorials or improving the documentation. That kind of stuff is just as important, because it helps make the project more accessible and user-friendly for everyone.
+
+### Activity 2: Read the community code assignment
 
 
 
