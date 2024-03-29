@@ -117,17 +117,17 @@ And then, on top of that, I found these other repositories that were all about g
 # Week 9
 ## Community code Project
 
-### Activity 1: Read the community code assignment
+## Activity 1: Read the community code assignment
 
 This is a really cool assignment I've got here. For my open-source project, I think this is a great opportunity to get my hands dirty and really dive into the community. The way I see it, I've got all sorts of options in terms of how I can contribute.
 
 I could write some code to help fix bugs or add new features. That's always super valuable for open-source projects. Or, if coding isn't my strong suit, I could always lend a hand with creating tutorials or improving the documentation. That kind of stuff is just as important, because it helps make the project more accessible and user-friendly for everyone.
 
-### Activity 2: Read "How to contribute to open source".
+## Activity 2: Read "How to contribute to open source".
 
 Here is a summary and reflection on what I've learned about contributing to open source projects from the "How to Contribute to Open Source" guide:
 
-#### Summary
+### Summary
 
 The GitHub Open Source Guides provide a comprehensive overview of what it means to contribute to open source projects. The key takeaways are:
 
@@ -139,7 +139,7 @@ The GitHub Open Source Guides provide a comprehensive overview of what it means 
 
 4. **Building Community**: Healthy open source communities foster respectful, constructive dialogue. Things like a code of conduct and encouraging mentorship can help create a welcoming environment for new contributors.
 
-## Reflection
+### Reflection
 
 After reviewing the guide, I feel inspired to get more involved in open source projects. The variety of contribution opportunities beyond just coding is really appealing, as I may be able to leverage my strengths in areas like documentation and community engagement.
 
@@ -149,10 +149,31 @@ Understanding the importance of following project-specific contribution guidelin
 
 Overall, this guide has given me a much clearer picture of what effective open source contribution looks like. I'm excited to put these lessons into practice as I identify a project to get involved with for the Community Code assignment.
 
-Citations:
-[1] https://github.com/todogroup/guides/blob/master/participating-in-open-source.md
-[2] https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors
-[3] https://opensource.guide
-[4] https://opensource.stackexchange.com/questions/5110/github-stars-is-a-very-useful-metric-but-for-what
-[5] https://github.blog/2022-07-07-healthy-and-sustainable-communities/
+## Find potential projects to contribute to:
+
+Here is a summary of the Workbox project based on the provided search results:
+
+## Workbox Project Overview
+![image](https://github.com/manasvi111/rrj-manasvi111/assets/122574665/7db55aca-8ad8-46c5-a6a0-39df7a26c331)
+
+Workbox is an open-source project maintained by Google that provides a set of JavaScript libraries for building Progressive Web Apps (PWAs). It aims to simplify the process of creating and managing service workers, which are a key component of PWAs.
+
+The main features of Workbox include:
+
+### Service Worker Generation: 
+Workbox can automatically generate a service worker for your application, handling tasks like precaching assets and runtime caching.
+
+### Caching Strategies: 
+Workbox provides a variety of caching strategies (e.g., network first, cache first) that can be easily implemented.
+
+### Offline Support: 
+Workbox helps ensure your PWA works reliably even when the user is offline or has a poor network connection.
+
+## Extensibility: 
+Workbox is designed to be modular, allowing developers to pick and choose the specific features they need.
+![image](https://github.com/manasvi111/rrj-manasvi111/assets/122574665/17b23f32-0e49-40f5-ad4f-46c35a86aaad)
+
+
+
+
 
