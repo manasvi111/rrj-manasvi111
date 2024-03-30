@@ -245,5 +245,7 @@ For this assignment, I already visited some issues and I reviwed their code and 
 
 As a personal assignment, I have worked on the issue of PR #67.
 
-
+Here, I am providing both links for my both projects.   
+- [Pattern-library](https://github.com/manasvi111/pattern-library) - (Readme.md and example.js)
+- [Community code](https://github.com/GoogleChrome/workbox/compare/v7...manasvi111:workbox:optional?expand=1) - (Readme.md(Documentation))
 
