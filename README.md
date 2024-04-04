@@ -249,3 +249,6 @@ Here, I am providing both links for my both projects.
 - [Pattern-library](https://github.com/manasvi111/pattern-library) - (Readme.md and example.js)
 - [Community code](https://github.com/GoogleChrome/workbox/compare/v7...manasvi111:workbox:optional?expand=1) - (Readme.md(Documentation))
 
+For the external community code, I worked in actual community by helping them with their documentation and contrbuting file. After making changes, I submitted pull requests for review by the Workbox team. I already merged the branch and waiting for them to give me any comments or suggestion about how I can improve or what I missed.
+
+Please have a look at my work of my actual [project-readme](https://github.com/manasvi111/workbox/blob/optional/project-Readme.md) file of the external community contrbution.
