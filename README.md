@@ -252,3 +252,16 @@ Here, I am providing both links for my both projects.
 For the external community code, I worked in actual community by helping them with their documentation and contrbuting file. After making changes, I submitted pull requests for review by the Workbox team. I already merged the branch and waiting for them to give me any comments or suggestion about how I can improve or what I missed.
 
 Please have a look at my work of my actual [project-readme](https://github.com/manasvi111/workbox/blob/optional/project-Readme.md) file of the external community contrbution.
+
+# Reflections:
+## Internal Community code:
+- By working on this assignment, I got to know about many things such as; this may sounds silly but earlier I didn't know how to create and close the issues, how can I comment on others work, what could be my contribution to thers and how others can effectively use this feature that was completely new to me like I never discovered that feature of the github because I never had to.
+- secondly, the way of creating fork and branches to work on those issues was also new to me.
+- But ultimately after connecting all the dots that all makes sense and it was great experience to work on that feature.
+
+## External Community Code:
+- For the person who never seen such things this was the huge step to work on the external community. But from finding the potential project for my self to contribute in it I learnt many major factors of the real world.
+- The way of they all are working, the system, team work, management, contrbution, problem solving, testing all the major roles of the execution I learnt in this module. And this was the wonderful experince overall.
+
+## Reseach and Journal:
+- Along with the other assignments, we were assigned to do this journal. It was helpful for me to follow the steps one by one for the better understanding and to stick onto the required and recommended things only. By this activity I was clear about what to do only so it helped me to avoid the confusion. And believe me this was the big help.
